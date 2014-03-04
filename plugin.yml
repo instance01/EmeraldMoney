@@ -1,0 +1,9 @@
+name: EmeraldMoney
+main: com.comze_instancelabs.emeraldmoney.Main
+version: 1.0
+author: instancelabs
+commands:
+   emoney:
+      description: Main command
+      usage: /emoney <action>
+      aliases: [em]
